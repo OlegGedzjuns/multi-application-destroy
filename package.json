@@ -1,0 +1,16 @@
+{
+  "name": "multi-application-destroy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --expose-gc --inspect index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@playcanvas/canvas-mock": "^1.0.1",
+    "playcanvas": "^1.52.4"
+  }
+}
